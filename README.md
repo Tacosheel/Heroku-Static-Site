@@ -3,7 +3,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Tacosheel/heroku-static-site?color=brightgreen&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Tacosheel/heroku-static-site?style=for-the-badge)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fherokustaticsite.herokuapp.com%2F)
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fstatic.tacosheel.dev)
 
 # Steps
 1. Add a file called ```composer.json``` and inside add: ```{}```
